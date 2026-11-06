@@ -1,0 +1,106 @@
+﻿ÑAWI
+Comunicación alternativa con la mirada
+
+TÉRMINOS DE USO Y LICENCIA
+
+Lea estos términos antes de instalar. Para continuar hay que
+aceptarlos.
+
+1. QUÉ ES ÑAWI
+
+Ñawi es un prototipo de comunicación aumentativa y alternativa que
+permite elegir pictogramas con la mirada, usando una cámara web común.
+Se desarrolló como proyecto de grado y se distribuye para su uso y su
+evaluación.
+
+2. USO PREVISTO Y LÍMITES
+
+  Ñawi se usa siempre con un adulto que acompañe a la persona usuaria.
+
+  No es un dispositivo médico. No diagnostica, no trata y no sustituye
+  la evaluación ni la intervención de un profesional de la salud o de
+  la comunicación.
+
+  No debe ser el único medio para comunicar una urgencia o un dolor
+  intenso: quien acompaña tiene que contar con otra forma de saberlo.
+
+  La precisión depende de la cámara, la luz, la postura y la
+  calibración. Puede equivocarse al elegir una celda.
+
+3. SIN GARANTÍA
+
+Ñawi se entrega tal cual, sin garantía de ningún tipo, ni expresa ni
+implícita. La autora no se hace responsable de los daños que pudieran
+derivarse de su uso o de la imposibilidad de usarlo.
+
+4. PRIVACIDAD
+
+  El programa funciona sin conexión a internet y no envía información
+  a ningún lugar.
+
+  La cámara se usa solo para seguir la mirada. Ñawi no toma
+  fotografías ni graba video: cada imagen se analiza en el momento y
+  se descarta.
+
+  Al terminar una sesión se pregunta si guardar un resumen (duración,
+  postura, ritmo y palabras usadas). No se guarda lo que se dijo ni en
+  qué orden. Todo queda en esta computadora, en la carpeta de Ñawi, y
+  se puede borrar en Configurar, Historial.
+
+5. LICENCIA
+
+Ñawi se distribuye bajo la licencia Creative Commons
+Atribución - No Comercial - Compartir Igual 4.0 Internacional
+(CC BY-NC-SA 4.0).
+Texto legal completo:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es
+
+Usted puede usar, copiar, compartir y modificar el programa, siempre
+que:
+
+  Atribución: cite a la autora y enlace a la licencia, indicando si
+  hizo cambios.
+
+  No comercial: no lo use con fines comerciales. No se puede vender ni
+  cobrar por él.
+
+  Compartir igual: si lo modifica, distribuya su versión con esta
+  misma licencia.
+
+6. CONTENIDO DE TERCEROS
+
+Estos componentes conservan su propia licencia:
+
+  Pictogramas ARASAAC
+    Los símbolos pictográficos utilizados son propiedad del Gobierno
+    de Aragón y han sido creados por Sergio Palao para ARASAAC
+    (https://arasaac.org), que los distribuye bajo licencia
+    Creative Commons BY-NC-SA.
+
+  Íconos de Flaticon (licencia gratuita con atribución)
+    emociones, necesidades: Magnific
+    más temas: Catalin Fertu
+    personas: Flat Icons
+    sociales: Smashicons
+    volver: Robert Angle
+    https://www.flaticon.es
+
+  Tipografías Atkinson Hyperlegible y Fredoka
+    SIL Open Font License 1.1
+
+  Modelo MediaPipe Face Landmarker y biblioteca MediaPipe (Google)
+    Apache License 2.0
+
+  Bibliotecas incluidas en el programa
+    Python (PSF License), OpenCV (Apache 2.0), NumPy (BSD),
+    Pillow (MIT-CMU), CustomTkinter (MIT), pyttsx3 (MPL 2.0),
+    screeninfo (MIT), pywin32 (PSF), comtypes (MIT).
+
+  Componentes de Microsoft Visual C++
+    Licencia de Microsoft que acompaña a su instalador.
+
+7. AUTORA Y CONTACTO
+
+© 2026 Nataly S. Romero J.
+Tarija, Bolivia.
+nsromero.j@gmail.com
