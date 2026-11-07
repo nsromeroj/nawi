@@ -70,7 +70,7 @@ No es adecuado si hay movimientos involuntarios de los ojos o de la cabeza que n
 
 Nataly S. Romero J., [nsromero.j@gmail.com](mailto:nsromero.j@gmail.com)
 
-Si algo no funciona, escriba desde la Ayuda del programa («Si algo no funciona») y, si puede, adjunte el archivo `errores.log` de la carpeta `datos` de Ñawi.
+Si algo no funciona, escriba desde la Ayuda del programa («Si algo no funciona») y adjunte el archivo `errores.log` de la carpeta `datos` de Ñawi.
 
 ## Licencia
 
