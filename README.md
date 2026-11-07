@@ -1,6 +1,30 @@
-# Ñawi
+<p align="center">
+  <img src="imagenes/portada.png" alt="Ñawi, habla con tus ojos" width="100%">
+</p>
 
-**Comunicación alternativa con la mirada.** Con Ñawi, la persona elige pictogramas del tablero mirándolos, y el programa dice la palabra en voz alta. Solo hace falta una computadora con Windows y una cámara web común.
+<p align="center">
+  <a href="../../releases/latest/download/Nawi_instalador.exe"><b>Descargar para Windows</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="../../releases/latest/download/Manual_de_uso_Nawi.pdf"><b>Manual de uso</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://youtu.be/qmSS_YJhY3A"><b>Ver el video</b></a>
+</p>
+
+**Ñawi** es un programa de comunicación alternativa con la mirada. La persona elige pictogramas del tablero mirándolos, y el programa dice la palabra en voz alta. Solo hace falta una computadora con Windows y una cámara web común.
+
+## Video: de la descarga a la primera sesión
+
+<p align="center">
+  <a href="https://youtu.be/qmSS_YJhY3A"><img src="imagenes/video.png" alt="Ver el video de Ñawi" width="640"></a>
+</p>
+
+## Cómo se ve
+
+| Tablero | Pantalla de inicio |
+|---|---|
+| <img src="imagenes/tablero.png" alt="Tablero de Ñawi"> | <img src="imagenes/inicio.png" alt="Pantalla de inicio"> |
+| **Configurar** | **Tutorial** |
+| <img src="imagenes/configurar.png" alt="Configurar el tablero"> | <img src="imagenes/tutorial.png" alt="Tutorial"> |
 
 ## Descargar
 
