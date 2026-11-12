@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="../../releases/latest/download/Nawi_instalador.exe"><b>Descargar para Windows</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="../../releases/latest/download/Manual_de_uso_Nawi.pdf"><b>Manual de uso</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;  &nbsp;&nbsp;
   <a href="https://youtu.be/qmSS_YJhY3A"><b>Ver el video</b></a>
 </p>
 
