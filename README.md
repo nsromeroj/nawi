@@ -23,8 +23,7 @@
 | Tablero | Pantalla de inicio |
 |---|---|
 | <img src="imagenes/tablero.png" alt="Tablero de Ñawi"> | <img src="imagenes/inicio.png" alt="Pantalla de inicio"> |
-| **Configurar** | **Tutorial** |
-|---|---|
+| Configurar | Tutorial |
 | <img src="imagenes/configurar.png" alt="Configurar el tablero"> | <img src="imagenes/tutorial.png" alt="Tutorial"> |
 
 ## Descargar
