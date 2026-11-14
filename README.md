@@ -17,29 +17,23 @@
   <img src="imagenes/tablero.gif" alt="El usuario sostiene la mirada en SÍ, la celda se llena y Ñawi dice la palabra; después elige NO" width="720">
 </p>
 
----
-
-## Cómo funciona
+## Funcionamiento
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="imagenes/pasos_oscuro.png">
     <source media="(prefers-color-scheme: light)" srcset="imagenes/pasos_claro.png">
-    <img src="imagenes/pasos_claro.png" alt="1 Ubícate frente a la cámara, 2 calibra mirando cada punto, 3 mira una celda y Ñawi dice la palabra" width="900">
+    <img src="imagenes/pasos_claro.png" alt="1 Acomódate frente a la cámara, 2 calibra mirando cada punto, 3 mira una celda y Ñawi dice la palabra" width="900">
   </picture>
 </p>
 
----
-
-## Video: de la descarga a la primera sesión
+## Video de instalación y primer uso
 
 <p align="center">
   <a href="https://youtu.be/qmSS_YJhY3A"><img src="imagenes/video.png" alt="Ver el video de Ñawi" width="640"></a>
 </p>
 
----
-
-## Cómo se ve
+## Interfaz
 
 <table align="center">
   <tr>
@@ -52,9 +46,7 @@
   </tr>
 </table>
 
----
-
-## Descargar
+## Descargas
 
 | | |
 |---|---|
@@ -69,16 +61,12 @@ El instalador ya trae todo lo necesario, incluidos el manual y la guía rápida;
 > [!TIP]
 > Al abrir el instalador, Windows puede mostrar «Windows protegió su PC», porque el programa no tiene firma comercial. Pulse **Más información** y luego **Ejecutar de todas formas**.
 
----
-
-## Es un prototipo
+## Alcance del prototipo
 
 > [!WARNING]
 > Ñawi es un prototipo de investigación, desarrollado como proyecto de grado. No es un dispositivo médico, no reemplaza la evaluación de un profesional y no debe ser el único medio para avisar de una urgencia. Úselo siempre con un adulto presente.
 
----
-
-## Qué necesita el usuario
+## Requisitos del usuario
 
 - Mover los ojos de un lado a otro cuando quiere.
 - Mirar un dibujo y sostener la mirada uno o dos segundos.
@@ -88,7 +76,7 @@ El instalador ya trae todo lo necesario, incluidos el manual y la guía rápida;
 
 No es adecuado si hay movimientos involuntarios de los ojos o de la cabeza que no dejan ver la cara con la cámara. Para saber si le sirve, hagan juntos el Tutorial del programa: si la calibración distingue al menos dos celdas, puede usar el tablero de SÍ y NO.
 
-## Qué necesita la computadora
+## Requisitos del equipo
 
 | | |
 |---|---|
@@ -99,8 +87,6 @@ No es adecuado si hay movimientos involuntarios de los ojos o de la cabeza que n
 | Cámara | cámara web de 30 cuadros por segundo |
 | Pantalla | 1280 x 720 o mayor |
 | Internet | no hace falta |
-
----
 
 ## Contacto
 
