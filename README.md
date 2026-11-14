@@ -3,14 +3,33 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest/download/Nawi_instalador.exe"><b>Descargar para Windows</b></a>
-  &nbsp;&nbsp;  &nbsp;&nbsp;
-  <a href="../../releases/latest/download/Manual_de_uso_Nawi.pdf"><b>Manual de uso</b></a>
-  &nbsp;&nbsp;  &nbsp;&nbsp;
-  <a href="https://youtu.be/qmSS_YJhY3A"><b>Ver el video</b></a>
+  <a href="../../releases/latest/download/Nawi_instalador.exe"><img src="imagenes/boton_descargar.png" alt="Descargar para Windows" width="260"></a>
+  <a href="../../releases/latest/download/Manual_de_uso_Nawi.pdf"><img src="imagenes/boton_manual.png" alt="Manual de uso" width="260"></a>
+  <a href="https://youtu.be/qmSS_YJhY3A"><img src="imagenes/boton_video.png" alt="Ver el video" width="260"></a>
 </p>
 
 **Ñawi** es un programa de comunicación alternativa con la mirada. La persona elige pictogramas del tablero mirándolos, y el programa dice la palabra en voz alta. Solo hace falta una computadora con Windows y una cámara web común.
+
+> [!NOTE]
+> No necesita internet: ni para instalar ni para usar Ñawi.
+
+<p align="center">
+  <img src="imagenes/tablero.gif" alt="El usuario sostiene la mirada en SÍ, la celda se llena y Ñawi dice la palabra; después elige NO" width="720">
+</p>
+
+---
+
+## Cómo funciona
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="imagenes/pasos_oscuro.png">
+    <source media="(prefers-color-scheme: light)" srcset="imagenes/pasos_claro.png">
+    <img src="imagenes/pasos_claro.png" alt="1 Ubícate frente a la cámara, 2 calibra mirando cada punto, 3 mira una celda y Ñawi dice la palabra" width="900">
+  </picture>
+</p>
+
+---
 
 ## Video: de la descarga a la primera sesión
 
@@ -18,13 +37,22 @@
   <a href="https://youtu.be/qmSS_YJhY3A"><img src="imagenes/video.png" alt="Ver el video de Ñawi" width="640"></a>
 </p>
 
+---
+
 ## Cómo se ve
 
-| Tablero | Pantalla de inicio |
-|---|---|
-| <img src="imagenes/tablero.png" alt="Tablero de Ñawi"> | <img src="imagenes/inicio.png" alt="Pantalla de inicio"> |
-| **Configurar** | **Tutorial** |
-| <img src="imagenes/configurar.png" alt="Configurar el tablero"> | <img src="imagenes/tutorial.png" alt="Tutorial"> |
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><img src="imagenes/tablero.png" alt="Tablero de Ñawi"><br><b>Tablero</b><br><sub>Se elige sosteniendo la mirada</sub></td>
+    <td align="center" width="50%"><img src="imagenes/inicio.png" alt="Pantalla de inicio"><br><b>Pantalla de inicio</b><br><sub>La maneja el adulto con el mouse</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="imagenes/configurar.png" alt="Configurar el tablero"><br><b>Configurar</b><br><sub>Celdas, palabras, voz y apariencia</sub></td>
+    <td align="center" width="50%"><img src="imagenes/tutorial.png" alt="Tutorial"><br><b>Tutorial</b><br><sub>Práctica paso a paso antes de usar el tablero</sub></td>
+  </tr>
+</table>
+
+---
 
 ## Descargar
 
@@ -36,13 +64,19 @@
 
 Los enlaces siempre bajan la última versión. Las versiones anteriores y sus cambios están en [Versiones](../../releases).
 
-El instalador ya trae todo lo necesario, incluidos el manual y la guía rápida. No necesita Python ni internet para instalar ni para usar Ñawi.
+El instalador ya trae todo lo necesario, incluidos el manual y la guía rápida; no hace falta instalar Python ni nada más.
 
+> [!TIP]
 > Al abrir el instalador, Windows puede mostrar «Windows protegió su PC», porque el programa no tiene firma comercial. Pulse **Más información** y luego **Ejecutar de todas formas**.
+
+---
 
 ## Es un prototipo
 
-Ñawi es un prototipo de investigación, desarrollado como proyecto de grado. No es un dispositivo médico, no reemplaza la evaluación de un profesional y no debe ser el único medio para avisar de una urgencia. Úselo siempre con un adulto presente.
+> [!WARNING]
+> Ñawi es un prototipo de investigación, desarrollado como proyecto de grado. No es un dispositivo médico, no reemplaza la evaluación de un profesional y no debe ser el único medio para avisar de una urgencia. Úselo siempre con un adulto presente.
+
+---
 
 ## Qué necesita el usuario
 
@@ -66,11 +100,13 @@ No es adecuado si hay movimientos involuntarios de los ojos o de la cabeza que n
 | Pantalla | 1280 x 720 o mayor |
 | Internet | no hace falta |
 
+---
+
 ## Contacto
 
 Nataly S. Romero J., [nsromero.j@gmail.com](mailto:nsromero.j@gmail.com)
 
-Si algo no funciona, escriba desde la Ayuda del programa («Si algo no funciona») y adjunte el archivo `errores.log` de la carpeta `datos` de Ñawi.
+Si algo no funciona, escriba desde la Ayuda del programa («Si algo no funciona») y, si puede, adjunte el archivo `errores.log` de la carpeta `datos` de Ñawi.
 
 ## Licencia
 
